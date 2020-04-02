@@ -8,6 +8,8 @@ Lunedì pomeriggio (13:30-16:30) COMUNC. DIGITALE.
 
 A cominciare da venerdì 3 aprile per INFORMATICA e INFORMATICA MUSICALE.
 
+Per gli studenti di INFORMATICA MUSICALE che hanno problemi, è anche possibile seguire il laboratorio del lunedì. 
+
 Time: Apr 3, 2020 09:15 AM Rome
 https://zoom.us/j/760405329?pwd=YlRvUjM5S0RBdUVyNUFrckNxc0hvUT09
 Password: SAD2020
