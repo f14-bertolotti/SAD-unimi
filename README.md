@@ -13,8 +13,7 @@ Per gli studenti di INFORMATICA MUSICALE che hanno problemi, è anche possibile 
 Password: SAD2020
 
 Time: Apr 3, 2020 09:15 AM Rome  
-https://zoom.us/j/760405329?pwd=YlRvUjM5S0RBdUVyNUFrckNxc0hvUT09  
 https://youtu.be/piLZoAZj_8k
 
 Time: Apr 6, 2020 01:13 PM Rome  
-https://zoom.us/j/328126069?pwd=SWZnR1Z2K0h2cjYwcXVNVm5LSzJoQT09  
+https://youtu.be/14n8NSLFfy8 
