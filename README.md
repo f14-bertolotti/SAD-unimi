@@ -3,11 +3,11 @@
 Repository del laboratorio di Statistics and data analytics dell'Università degli Studi di Milano.
 
 ORARI:
-Venerdì mattina (9:30-12:30) INFORMATICA e INFORMATICA MUSICALE.
+Venerdì mattina (9:30-12:30) INFORMATICA e INFORMATICA MUSICALE.  
 Lunedì pomeriggio (13:30-16:30) COMUNC. DIGITALE.
 
 ORARI UPDATE:
-Venerdì mattina (9:30-12:30) INFORMATICA (solo python3).
+Venerdì mattina (9:30-12:30) INFORMATICA (solo python3).  
 Lunedì pomeriggio (13:30-16:30) COMUNC. DIGITALE e INFORMATICA MUSICALE (solo R).
 
 Visto l'alto numero di partecipanti provo a cambiare piattaforma di streaming da zoom a teams. Di seguito il link al "team":  
